@@ -1,0 +1,30 @@
+{
+  "name": "privatetutorial",
+  "version": "1.0.0",
+  "description": "private tutorial business website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuby77/private-tutorial.git"
+  },
+  "keywords": [
+    "tutoring",
+    "education",
+    "nodejs"
+  ],
+  "author": "Kubra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuby77/private-tutorial/issues"
+  },
+  "homepage": "https://github.com/kuby77/private-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
